@@ -6,7 +6,7 @@ I enjoy working with data, exploring patterns, and building dashboards that make
 
 ---
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
 ### Student Well-Being Prevention Dashboard
 Developed an interactive dashboard using Python for data preparation and Tableau for visualization to analyze student well-being trends.
@@ -16,6 +16,22 @@ https://public.tableau.com/views/WVPRC_Mock_Survey_Data_TableauDasboard/WVStuden
 
 🔗 GitHub Repository:  
 https://github.com/SowmyaHariniDeviKumpatla/WV-Student-Wellbeing-Dashboard
+
+---
+
+### Depression Detection Project
+Built a machine learning-based system to analyze text, image, and audio data to detect signs of depression.
+
+🔗 GitHub Repository:  
+https://github.com/SowmyaHariniDeviKumpatla/Depression-Detection-Project
+
+---
+
+### Passenger Survival Visualization
+Created interactive visualizations to analyze passenger survival trends using R and Shiny.
+
+🔗 GitHub Repository:  
+https://github.com/SowmyaHariniDeviKumpatla/Passenger-Survival-Visualization
 
 ---
 
