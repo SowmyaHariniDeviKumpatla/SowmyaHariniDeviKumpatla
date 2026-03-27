@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sowmya 👋
 
-<!--
-**SowmyaHariniDeviKumpatla/SowmyaHariniDeviKumpatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 5.5+ years of experience working with data, dashboards, and analytics projects.
 
-Here are some ideas to get you started:
+I enjoy working with data, exploring patterns, and building dashboards that make insights easy to understand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Featured Project
+
+### Student Well-Being Prevention Dashboard
+Developed an interactive dashboard using Python for data preparation and Tableau for visualization to analyze student well-being trends.
+
+🔗 Tableau Dashboard:  
+https://public.tableau.com/views/WVPRC_Mock_Survey_Data_TableauDasboard/WVStudentWell-BeingPreventionDashboard  
+
+🔗 GitHub Repository:  
+https://github.com/SowmyaHariniDeviKumpatla/WV-Student-Wellbeing-Dashboard
+
+---
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/sowmya-kumpatla
