@@ -1,4 +1,5 @@
-# Hi, I'm Sowmya 👋
+## Hi, I'm Sowmya 👋  
+Welcome to my GitHub — here I share my data and dashboard projects.
 
 I have 5.5+ years of experience working with data, dashboards, and analytics projects.
 
